@@ -1,6 +1,0 @@
-
-
-
-y_pred = pipe.predict(X_test)
-
-
