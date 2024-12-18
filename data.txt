@@ -82,37 +82,5 @@ xgboost==1.5.0
 
 #### `README.md`:
 ```markdown
-# Cricket Score Predictor
-
-## Description
-A web-based application that predicts the projected score of a T20 cricket team using machine learning.
-
-## Features
-- Predicts final score based on match data.
-- Simple web interface built with Flask.
-- Machine learning model using XGBoost.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/CricketScorePredictor.git
-   cd CricketScorePredictor
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python run.py
-   ```
-4. Open your browser and go to `http://127.0.0.1:5000/`.
-
-## Technologies Used
-- Python
-- Flask
-- XGBoost
-- HTML/CSS
-```
 
 This structure is modular, easy to navigate, and aligns well with best practices in software development.
